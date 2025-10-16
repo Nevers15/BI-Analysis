@@ -1,1 +1,1 @@
-# BI-Analysis
+<iframe title="Карта Навыков" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=5af18c59-fad9-42d9-aff5-06c0b1193987&autoAuth=true&ctid=19ba435d-e46c-436a-84f2-1b01e693e480" frameborder="0" allowFullScreen="true"></iframe>
