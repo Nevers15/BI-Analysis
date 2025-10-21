@@ -24,3 +24,14 @@ __ЗАЧЕМ ЭТО РУКОВОДИТЕЛЮ:__
 ### Общий взгляд на дашборд и его интерактивность:
 
 <img width="3904" height="2188" alt="image" src="https://github.com/user-attachments/assets/6685dff5-a4b9-47b4-bc4e-a7cd8f6b5206" />
+
+<img width="3890" height="2186" alt="image" src="https://github.com/user-attachments/assets/1146f8b7-74f0-4984-89dc-f825ce4fef24" />
+
+<img width="3892" height="2182" alt="image" src="https://github.com/user-attachments/assets/e4ceec2c-bb55-4f37-976f-8de3109c572b" />
+
+<img width="3892" height="2188" alt="image" src="https://github.com/user-attachments/assets/befb8a3e-c63b-4d4a-ae4c-7a868ba8b507" />
+
+<img width="3894" height="2186" alt="image" src="https://github.com/user-attachments/assets/62d0a1d0-fbc3-474e-b43e-66a50e60ac52" />
+
+
+
