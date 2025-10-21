@@ -23,4 +23,4 @@ __ЗАЧЕМ ЭТО РУКОВОДИТЕЛЮ:__
 
 ### Общий взгляд на дашборд и его интерактивность:
 
-<img src="https://i.imgur.com/91mRK66.png" alt="ares"/>
+<img width="3904" height="2188" alt="image" src="https://github.com/user-attachments/assets/6685dff5-a4b9-47b4-bc4e-a7cd8f6b5206" />
